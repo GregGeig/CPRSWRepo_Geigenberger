@@ -1,3 +1,7 @@
 Hello from Eldin!
+<<<<<<< HEAD
 Eldin is uncool!
 
+=======
+Simon ist gay!
+>>>>>>> 370ee9dbec91532538b69cf0e8137d24ac5eb3b9
